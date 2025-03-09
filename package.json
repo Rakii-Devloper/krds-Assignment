@@ -2,7 +2,7 @@
   "name": "krds-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rakii-Devloper.github.io/krds-assignment/",
+  "homepage": "https://Rakii-Devloper.github.io/krds-assignment",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
