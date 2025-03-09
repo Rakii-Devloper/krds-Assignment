@@ -1,14 +1,14 @@
-  import { BrowserRouter, Routes, Route } from "react-router-dom";
-  import HomePage from "./pages/HomePage";
+import { HashRouter, Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage";
 
-  function App() {
-    return (
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<HomePage/>} />
-        </Routes>
-      </BrowserRouter>
-    );
-  }
+function App() {
+  return (
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+      </Routes>
+    </HashRouter>
+  );
+}
 
-  export default App;
+export default App;
