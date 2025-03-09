@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/krds-assignment/static/css/main.f68c2fec.css",
-    "main.js": "/krds-assignment/static/js/main.d0f4abbf.js",
-    "index.html": "/krds-assignment/index.html",
-    "main.f68c2fec.css.map": "/krds-assignment/static/css/main.f68c2fec.css.map",
-    "main.d0f4abbf.js.map": "/krds-assignment/static/js/main.d0f4abbf.js.map"
+    "main.css": "/krds-Assignment/static/css/main.f68c2fec.css",
+    "main.js": "/krds-Assignment/static/js/main.d0f4abbf.js",
+    "index.html": "/krds-Assignment/index.html",
+    "main.f68c2fec.css.map": "/krds-Assignment/static/css/main.f68c2fec.css.map",
+    "main.d0f4abbf.js.map": "/krds-Assignment/static/js/main.d0f4abbf.js.map"
   },
   "entrypoints": [
     "static/css/main.f68c2fec.css",
