@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krds-assignment/static/css/main.f68c2fec.css",
+    "main.js": "/krds-assignment/static/js/main.8f0c393a.js",
+    "index.html": "/krds-assignment/index.html",
+    "main.f68c2fec.css.map": "/krds-assignment/static/css/main.f68c2fec.css.map",
+    "main.8f0c393a.js.map": "/krds-assignment/static/js/main.8f0c393a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68c2fec.css",
+    "static/js/main.8f0c393a.js"
+  ]
+}
